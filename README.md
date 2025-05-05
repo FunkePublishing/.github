@@ -1,2 +1,0 @@
-# FUNKE Publishing GmbH
-
