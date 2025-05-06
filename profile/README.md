@@ -1,4 +1,4 @@
-Hallo, schön, dass Du hier bist 👋!
+# Hallo, schön, dass Du hier bist 👋!
 
 Wir sind das Team, das die Plattform für zwölf Regionalmedien wie z.B. Berliner Morgenpost und Hamburger Abendblatt baut.
 
