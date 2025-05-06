@@ -1,3 +1,5 @@
-# FUNKE Publishing GmbH
+Hallo, schön, dass Du hier bist 👋!
 
-Wir bauen die Platform für zwölf Regionalmedien wie z.B. der Berliner Morgenpost, dem Hamburger Abendblatt und der WAZ.
+Wir sind das Team, das die Plattform für zwölf Regionalmedien wie z.B. die Berliner Morgenpost, das Hamburger Abendblatt baut. 📰
+
+Wir sind auch immer auf der Suche nach Verstärkung. 👥 Schau einfach mal auf unserer [Karriereseite](https://karriere.funkemedien.de/de/) vorbei... 🔍
